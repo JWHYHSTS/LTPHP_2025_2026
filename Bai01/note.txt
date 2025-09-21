@@ -1,0 +1,15 @@
+Tuần 2 _ LẬP TRÌNH PHP _ 20/09/2025
+------------------------------------------------------------------
+C:\Xampp ---> htdocs --> Folder = Project = Web --> FileSource.php
+------------------------------------------------------------------
+1. Tạo file Bai01
+2. Tải extension: PHP Intelephense
+------------------------------------------------------------------
+1. Các hàm String
+2. Kiểu Array
+3. Vòng lặp
+------------------------------------------------------------------
+Bai01
+Câu 1: Giải phương trình bậc 2: ax2 + bx + c = 0. Với a,b,c 
+Câu 2: Cho mảng. Viết chương trình kiểm tra từng phần tử có phải là số nguyên tố 
+Câu 3: Cho mảng. In ra mảng từ bé đến lớn, từ lớn đến bé, số lớn nhất, số nhỏ nhất
